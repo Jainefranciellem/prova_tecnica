@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  background-image: url('./image/céu.jpg');
+}
+
+body {
+  @apply bg-no-repeat bg-cover bg-origin-border box-border font-serif md:bg-cover h-full text-center;
+}
+
+.btn {
+  @apply bg-blue-500 hover:bg-purple-400 hover:shadow hover:shadow-purple-400 text-slate-800 text-center font-bold h-6 w-14 m-1 rounded;
+}
+
