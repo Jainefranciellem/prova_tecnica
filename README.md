@@ -19,9 +19,9 @@
 
   <ol>
     <li>Clone o repositório:</li>
-    <code>git clone git@github.com:Elisrenan/prova-startup-franciane.git;</code>
+    <code>git clone git@github.com:Jainefranciellem/prova_tecnica.git;</code>
     <li>Navegue até a pasta do projeto:</li>
-    <code>cd prova-startup-franciane</code>
+    <code>cd prova-tecnica</code>
     <li>Instale as dependências do projeto:</li>
     <code>npm install</code>
   </ol>
